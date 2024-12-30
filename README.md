@@ -1,4 +1,4 @@
-# Ola_Data_Analytics
+# Ola_Data_Analytics_Project
 
 # SQL Questions:
 1. **Retrieve all successful bookings:**
